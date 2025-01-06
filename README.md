@@ -56,7 +56,7 @@ Fine-tune hyperparameters for better model performance.
 Gather more labeled data for improved accuracy.
 ## References
 
-- Author: Mirza Salman
-- Contact: salmansaluu661@gmail.com
+- Author: Muhammad Mubashir Ali
+- Contact: muhammadmubashirali63@gmial.com
 
 Feel free to customize this README to include any additional information you want to provide about the project.
